@@ -197,7 +197,7 @@
      {
        "component": "richtext",
        "name": "quote",
-       "value": "testNoah",
+       "value": "",
        "label": "Quote",
        "valueType": "string"
      },
